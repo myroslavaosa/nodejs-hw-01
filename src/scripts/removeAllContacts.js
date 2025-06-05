@@ -4,4 +4,4 @@ export const removeAllContacts = async () => {
     await writeContacts([]);
 };
 
-removeAllContacts();
+// removeAllContacts();

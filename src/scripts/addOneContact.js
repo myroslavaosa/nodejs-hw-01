@@ -16,4 +16,4 @@ export const addOneContact = async () => {
   }
 };
 
-addOneContact();
+// addOneContact();
